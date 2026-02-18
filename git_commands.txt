@@ -7,3 +7,10 @@ system         where to add to
 git add        --> add's the file to staged (git add . ---> adds all the files)
 git commit -m  --> commits the file to vcs.
 git restore    --> used when we want to restore a deleted file.
+
+generated token ---> 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
+git remote -v  --> Shows the url
+git remote set-url origin --> used for connecting local and github
+(main)--> when created on github and (master) --> when created on local
+git push orign (master) --> for pushing files to github
+git clone   --> cloning a github repositry to local
