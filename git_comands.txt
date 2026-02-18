@@ -1,0 +1,17 @@
+git init      --> initializing git
+git status    --> check the status of git file.
+untracked |         staged            | tracked
+file in          to decide               file is added to git verison control
+system         where to add to
+             untracked or tracked
+git add        --> add's the file to staged (git add . ---> adds all the files)
+git commit -m  --> commits the file to vcs.
+git restore    --> used when we want to restore a deleted file.
+
+
+
+git remote -v  --> Shows the url
+git remote set-url origin --> used for connecting local and github
+(main)--> when created on github and (master) --> when created on local
+git push orign (master) --> for pushing files to github
+git clone   --> cloning a github repositry to local
