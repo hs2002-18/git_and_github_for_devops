@@ -15,4 +15,4 @@ git remote set-url origin --> used for connecting local and github
 (main)--> when created on github and (master) --> when created on local
 git push orign (master) --> for pushing files to github
 git clone   --> cloning a github repositry to local
-git pull --> when fetching files to local
+git pull origin master --> when fetching files to local
