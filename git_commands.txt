@@ -16,3 +16,7 @@ git remote set-url origin --> used for connecting local and github
 git push orign (master) --> for pushing files to github
 git clone   --> cloning a github repositry to local
 git pull origin master --> when fetching files to local
+
+git branch --> tells you in how many branches you have
+git branch <name> --> creates a new branch
+git switch <name> --> to switch to a branch
